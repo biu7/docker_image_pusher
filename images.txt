@@ -1,1 +1,2 @@
 nginx:1.26.0
+zkep/mygeektime:v0.0.6
